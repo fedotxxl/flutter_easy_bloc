@@ -1,8 +1,7 @@
-name: easy_bloc
+name: flutter_easy_bloc
 description: bloc without complexity - mutable state, no events, no InheritedWidget
-version: 0.0.1
-author:
-homepage:
+version: 0.1.0
+repository: https://github.com/fedotxxl/flutter_easy_bloc
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
